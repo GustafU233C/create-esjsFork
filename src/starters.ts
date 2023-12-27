@@ -31,6 +31,11 @@ export const STARTERS: ReadonlyArray<Starter> = [
     repo: 'es-js/crear-hono-app',
     description: 'Crea una aplicación web del lado del servidor con Hono',
   },
+  {
+    name: 'discord',
+    repo: 'es-js/crear-discord-bot',
+    description: 'Crea un Bot de Discord',
+  }
 ];
 
 /**
